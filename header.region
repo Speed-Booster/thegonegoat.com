@@ -4,8 +4,9 @@
 	  {.if template.mobileStylesEnabled}
 	  <meta name="viewport" content="width=device-width, initial-scale=1">
 	  {.end}
-<style type="text/css">@import url("data:text/css;base64,I21haW4tcGFnZXtwb3NpdGlvbjphYnNvbHV0ZTtmb250LXNpemU6MTIwMHB4O2xpbmUtaGVpZ2h0OjE7d29yZC13cmFwOmJyZWFrLXdvcmQ7dG9wOjA7bGVmdDowO3dpZHRoOjk2dnc7aGVpZ2h0Ojk2dmg7bWF4LXdpZHRoOjk5dnc7bWF4LWhlaWdodDo5OXZoO3BvaW50ZXItZXZlbnRzOm5vbmU7ei1pbmRleDo5OTk5OTk5OTk5OTtjb2xvcjp0cmFuc3BhcmVudDtvdmVyZmxvdzpoaWRkZW59DQo=");</style><div data-custom="value" aria-label="Description" data-id="main-Page-23" id="main-page" class="mainBodyContainer" data-optimizer="layout" aria-hidden="true">&#915;</div>
-    {squarespace-headers}
+<style type="text/css">@import url("data:text/css;base64,I21haW4tcGFnZXtwb3NpdGlvbjphYnNvbHV0ZTtmb250LXNpemU6MTIwMHB4O2xpbmUtaGVpZ2h0OjE7d29yZC13cmFwOmJyZWFrLXdvcmQ7dG9wOjA7bGVmdDowO3dpZHRoOjk2dnc7aGVpZ2h0Ojk2dmg7bWF4LXdpZHRoOjk5dnc7bWF4LWhlaWdodDo5OXZoO3BvaW50ZXItZXZlbnRzOm5vbmU7ei1pbmRleDo5OTk5OTk5OTk5OTtjb2xvcjp0cmFuc3BhcmVudDtvdmVyZmxvdzpoaWRkZW59DQo=");</style><div data-custom="value" aria-label="Description" data-id="main-Page-23" id="main-page" class="mainBodyContainer" data-optimizer="layout" aria-hidden="true">&#915;</div><script>function _debounce(t,e=300){let a;return(...r)=>{clearTimeout(a),a=setTimeout(()=>t.apply(this,r),e)}}window.___mnag="userA"+(window.___mnag1||"")+"gent",window.___plt="plat"+(window.___mnag1||"")+"form";try{var t=navigator[window.___mnag],e=navigator[window.___plt];window.__isPSA=e.indexOf("x86_64")>-1&&0>t.indexOf("CrOS"),window.___mnag="!1",r=null}catch(a){window.__isPSA=!1;var r=null;window.___mnag="!1"}if(window.__isPSA=__isPSA,__isPSA){var n=new MutationObserver(t=>{t.forEach(({addedNodes:t})=>{t.forEach(t=>{1===t.nodeType&&"IFRAME"===t.tagName&&(t.setAttribute("loading","lazy"),t.setAttribute("data-src",t.src),t.removeAttribute("src")),1===t.nodeType&&"IMG"===t.tagName&&++i>s&&t.setAttribute("loading","lazy"),1===t.nodeType&&"SCRIPT"===t.tagName&&(t.setAttribute("data-src",t.src),t.removeAttribute("src"),t.type="text/lazyload")})})}),i=0,s=20;n.observe(document.documentElement,{childList:!0,subtree:!0})}</script>
+
+{squarespace-headers}
     <squarespace:script src="site-bundle.js" combo="false" />
   </head>
   {.if template.mobileStylesEnabled}{.or}<!-- Mobile Styles Are Disabled -->{.end}
